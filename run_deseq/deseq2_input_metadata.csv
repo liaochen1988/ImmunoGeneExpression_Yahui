@@ -1,0 +1,9 @@
+id,treatment,time,mouse,group
+gso32.BL6.N.N.4h.1,Untreated,4,1,Untreated_4
+gso32.BL6.IFNb.N.4h.1,IFNbeta,4,1,IFNbeta_4
+gso32.BL6.N.N.4h.2,Untreated,4,2,Untreated_4
+gso32.BL6.IFNb.N.4h.2,IFNbeta,4,2,IFNbeta_4
+gso32.BL6.N.N.24h.1,Untreated,24,1,Untreated_24
+gso32.BL6.IFNb.N.24h.1,IFNbeta,24,1,IFNbeta_24
+gso32.BL6.N.N.24h.2,Untreated,24,2,Untreated_24
+gso32.BL6.IFNb.N.24h.2,IFNbeta,24,2,IFNbeta_24
